@@ -9,7 +9,7 @@ h1{
     background: #333;
     display: flex;
     height: 30px;
-    height: 30px;
+    height: 40px;
 
 }
 a {
@@ -39,5 +39,29 @@ nav > ul li a {
     text-decoration: none;
    ;
 }
+nav{
+    margin: auto;
+    width:50%;
+    max-width: 1000px;
+}
+
+nav ul{
+    list-style: none;
+}
+nav > ul{
+    display: table;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
 
 
