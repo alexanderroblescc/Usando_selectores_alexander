@@ -81,7 +81,12 @@ section>div>article #text{
 section .cuerpo article #text span {
     color: #7e8301;
 }
-
+p2{
+    color: #fff;
+    font-size: 30px;
+    background: black;
+    border-radius: 10px 0px 10px 0px;
+}
 
 
 
