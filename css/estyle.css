@@ -57,11 +57,19 @@ nav > ul{
 
 }
 h2{
+    height: 30px;
+    margin: 20px;
     color: #4d4d0a;
     text-align: center;
-
 }
-
+p{
+    color: #000000;
+    background: #d8c0c0;
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+    height: 10%;
+}
 
 
 
