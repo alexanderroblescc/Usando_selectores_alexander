@@ -58,7 +58,7 @@ nav > ul{
 }
 h2{
     height: 30px;
-    margin: 20px;
+    margin: 50px;
     color: #4d4d0a;
     text-align: center;
 }
@@ -67,7 +67,7 @@ p{
     background: #d8c0c0;
     text-align: justify;
     margin: 0 auto;
-    width: 50%;
+    width: 30%;
     height: 10%;
 }
 header{
@@ -75,6 +75,7 @@ header{
     text-align: center;
 }
 section>div>article #text{
+
     color: #000;
     background: #fff;
 }
@@ -82,14 +83,25 @@ section .cuerpo article #text span {
     color: #7e8301;
 }
 p2{
+
     color: #fff;
     font-size: 30px;
     background: black;
     border-radius: 10px 0px 10px 0px;
 }
+input:focus{
+    font-size: 18px;
+text-align:center;
+color: #fff;
+height: 26px;
+ width: 200px;
 
+}
+form {
 
+    text-align: center;
 
+}
 
 
 
