@@ -100,7 +100,11 @@ height: 26px;
 form {
     text-align: center;
 }
-
+section>div>article>a {
+border-color: aqua;
+    background: red;
+    color: aliceblue;
+}
 
 
 
